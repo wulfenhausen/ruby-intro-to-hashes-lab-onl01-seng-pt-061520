@@ -10,20 +10,16 @@ actor = {name: "Kevin Hart"}
 >>>>>>> 5afa04d9d44407e52bc915c8facac342042d2b85
 end
 
-#def monopoly
-#	monopoly = {}
-#	monopoly = {
-#	  :railroads=>{}
-#	}
-#
-#end
-
-
 def monopoly
+	monopoly = {}
 	monopoly = {
-	  :horse =>
-monopoly[:third] = 
+	  :railroads=>{}
+	}
+
 end
+
+
+
 
 def monopoly_with_second_tier
   monopoly = {
